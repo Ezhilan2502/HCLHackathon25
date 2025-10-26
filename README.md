@@ -114,7 +114,7 @@ Registers a new customer and triggers KYC verification.
 | Sl.No | Endpoint | Method |
 |---|---------|--------|
 | 1 | `http://localhost:8000/api/customers/register` | POST |
-| 2 | `http://localhost:8000/api/customers/1001/` | GET |
+| 2 | `http://localhost:8000/api/customers` | GET |
 
 
 
