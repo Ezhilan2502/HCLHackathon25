@@ -98,7 +98,7 @@ Registers a new customer and triggers KYC verification.
 
 ## Sample Responses
 
-**Success (201 Created):**
+**Success (200 Created):**
 ```json
 {
   "customer_id": "1001",
